@@ -19,7 +19,7 @@ docker-compose up
 docker-compose up -d
 ```
 
-## When update the container
+## When updating the project
 ```
 docker-compose up -d --build
 ```
