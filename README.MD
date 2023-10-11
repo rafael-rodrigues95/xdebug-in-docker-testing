@@ -1,3 +1,5 @@
+This is a project model based in containers that allows debug PHP code using Xdebug
+
 # Configuration
 ## Docker - PHP Image
 
